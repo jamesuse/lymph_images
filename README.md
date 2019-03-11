@@ -5,15 +5,20 @@ Input format: 512x512 PNG image
 **Example:**
 
 *Prediction output Normal*
+*list below*
 ![image](https://github.com/jamesuse/lymph_images/blob/master/1.png)
 
 *Prediction output Abnormal*
-![ ](2019_0305_example/A18_1_1_246.png)
+*list below*
+![image](https://github.com/jamesuse/lymph_images/blob/master/2.png)
 *Prediction output Abnormal*
-![ ](2019_0305_example/A18_1_1_245.png)
+*list below*
+![image](https://github.com/jamesuse/lymph_images/blob/master/3.png)
 
 
 *Prediction output Risk*
-![ ](2019_0305_example/A18_1_1_112.png)
+*list below*
+![image](https://github.com/jamesuse/lymph_images/blob/master/4.png)
 *Prediction output Risk*
-![ ](2019_0305_example/A18_1_1_113.png)
+*list below*
+![image](https://github.com/jamesuse/lymph_images/blob/master/5.png)
