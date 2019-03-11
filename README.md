@@ -5,7 +5,7 @@ Input format: 512x512 PNG image
 **Example:**
 
 *Prediction output Normal*
-![](2019_0305_example/A18_1_1_163.png)
+![image](https://github.com/jamesuse/lymph_images/blob/master/1.png)
 
 *Prediction output Abnormal*
 ![ ](2019_0305_example/A18_1_1_246.png)
